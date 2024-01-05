@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Omnes';
+    src: url(https://static1.squarespace.com/static/650c3f9a79eaa430d6e5dcf8/t/65246b5d8820387fee56bc9a/1696885598042/Omnes+Light.ttf) format('truetype');
+    font-weight: 300; /* Light */
+    font-style: normal;
+}
+
+body {
+    background-color: transparent;
+    color: #C2BFCB;
+    font-family: 'Omnes', sans-serif;
+}
